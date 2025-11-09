@@ -1,0 +1,390 @@
+Operativsystem: nt
+Brukernavn: Greencom
+lagring: 657.33 GB
+IP adresse: 
+Windows IP Configuration
+
+
+Unknown adapter NordLynx:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::8bc7:7e1a:a05b:8333%18
+   IPv4 Address. . . . . . . . . . . : 10.5.0.2
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.50.163
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.50.1
+
+Unknown adapter OpenVPN Data Channel Offload for NordVPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Unknown adapter Lokal tilkobling:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::be3a:3728:4952:404d%16
+   IPv4 Address. . . . . . . . . . . : 10.100.0.2
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Unknown adapter Lokal tilkobling 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Unknown adapter OpenVPN Connect DCO Adapter:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Lokal tilkobling* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Lokal tilkobling* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Bluetooth-nettverkstilkobling:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::b66d:5e66:cd72:599e%80
+   IPv4 Address. . . . . . . . . . . : 172.18.112.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Installerte apper: Name                                                            Version           
+
+Microsoft Teams Meeting Add-in for Microsoft Office             1.25.24601        
+
+Office 16 Click-to-Run Extensibility Component                  16.0.19328.20106  
+
+Office 16 Click-to-Run Localization Component                   16.0.19328.20106  
+
+Office 16 Click-to-Run Licensing Component                      16.0.19029.20208  
+
+ASUS Aura SDK                                                   3.05.13           
+
+Node.js                                                         22.11.0           
+
+Xbox 360 Controller Emulator                                    1.0.0.15          
+
+ASUS Ambient HAL                                                7.8.0.0           
+
+Windows SDK for Windows Store Apps Metadata                     10.1.19041.685    
+
+Windows Desktop Extension SDK Contracts                         10.1.19041.685    
+
+MSI Development Tools                                           10.1.19041.685    
+
+vs_FileTracker_Singleton                                        16.11.34827       
+
+Windows SDK for Windows Store Apps                              10.1.19041.685    
+
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211     14.44.35211       
+
+WinRT Intellisense UAP - en-us                                  10.1.19041.685    
+
+Windows SDK Desktop Tools x64                                   10.1.19041.685    
+
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219     10.0.40219        
+
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664      12.0.40664        
+
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219     10.0.40219        
+
+Microsoft GameInput                                             10.1.26100.6879   
+
+Python 3.12.6 pip Bootstrap (64-bit)                            3.12.6150.0       
+
+Microsoft .NET Host - 6.0.16 (x64)                              48.67.58427       
+
+Windows SDK for Windows Store Apps Libs                         10.1.19041.685    
+
+Windows SDK Modern Non-Versioned Developer Tools                10.1.19041.685    
+
+Microsoft .NET Runtime - 6.0.16 (x64)                           48.67.58427       
+
+Microsoft Visual Studio Setup WMI Provider                      3.7.2182.35401    
+
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211  14.44.35211       
+
+Python 3.12.6 Development Libraries (64-bit)                    3.12.6150.0       
+
+Python 3.12.6 Test Suite (64-bit)                               3.12.6150.0       
+
+Python 3.12.6 Documentation (64-bit)                            3.12.6150.0       
+
+Python Launcher                                                 3.12.6150.0       
+
+Windows SDK for Windows Store Apps Contracts                    10.1.19041.685    
+
+Python 3.12.6 Standard Library (64-bit)                         3.12.6150.0       
+
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664      12.0.40664        
+
+AURA lighting effect add-on x64                                 0.0.49            
+
+Windows SDK Desktop Libs arm64                                  10.1.19041.685    
+
+Universal CRT Extension SDK                                     10.1.19041.685    
+
+Windows SDK                                                     10.1.19041.685    
+
+Epic Games Launcher Prerequisites (x64)                         1.0.0.0           
+
+Universal Holtek RGB DRAM                                       1.0.0.7           
+
+Java 8 Update 441                                               8.0.4410.7        
+
+WD_BLACK AN1500                                                 1.0.14.0          
+
+EA app                                                          12.0.0.0          
+
+Windows SDK Desktop Libs x86                                    10.1.19041.685    
+
+UltiMaker Cura                                                  5.7.2             
+
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211     14.44.35211       
+
+Windows SDK Desktop Headers x86                                 10.1.19041.685    
+
+Microsoft .NET Host FX Resolver - 8.0.12 (x64)                  64.48.26165       
+
+Python 3.12.6 Executables (64-bit)                              3.12.6150.0       
+
+Windows SDK Redistributables                                    10.1.19041.685    
+
+Python 3.12.6 Add to Path (64-bit)                              3.12.6150.0       
+
+Go Programming Language amd64 go1.25.1                          1.25.1            
+
+Windows SDK Desktop Tools x86                                   10.1.19041.685    
+
+Universal CRT Redistributable                                   10.1.19041.685    
+
+ROG Live Service                                                3.3.12.0          
+
+SDK ARM Redistributables                                        10.1.19041.685    
+
+Microsoft Windows Desktop Runtime - 8.0.12 (x64)                64.48.26178       
+
+Windows SDK DirectX x64 Remote                                  10.1.19041.685    
+
+Windows SDK Desktop Headers arm                                 10.1.19041.685    
+
+Windows App Certification Kit SupportedApiList x86              10.1.19041.685    
+
+WinRT Intellisense Desktop - Other Languages                    10.1.19041.685    
+
+Universal General MIDI DLS Extension SDK                        10.1.19041.685    
+
+WinRT Intellisense IoT - Other Languages                        10.1.19041.685    
+
+Universal CRT Tools x86                                         10.1.19041.685    
+
+WinAppDeploy                                                    10.1.19041.685    
+
+AniMe Matrix MB EN                                              1.0.1             
+
+WinRT Intellisense PPI - Other Languages                        10.1.19041.685    
+
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030   11.0.61030        
+
+OpenVPN Connect                                                 3.7.2             
+
+Application Verifier x64 External Package                       10.1.19041.685    
+
+Apple Mobile Device Support                                     16.5.0.12         
+
+Kits Configuration Installer                                    10.1.19041.685    
+
+AMD PSP Driver                                                  5.27.0.0          
+
+Bonjour                                                         3.1.0.1           
+
+Windows SDK Modern Versioned Developer Tools                    10.1.19041.685    
+
+Windows SDK for Windows Store Managed Apps Libs                 10.1.19041.685    
+
+ASUS Update Helper                                              1.3.107.145       
+
+Microsoft .NET Runtime - 8.0.12 (x64)                           64.48.26165       
+
+Windows SDK Facade Windows WinMD Versioned                      10.1.19041.685    
+
+Windows IoT Extension SDK Contracts                             10.1.19041.685    
+
+AMD_Chipset_Drivers                                             6.05.16.221       
+
+                                                                                  
+
+Microsoft .NET Host - 8.0.13 (x64)                              64.52.27977       
+
+PlayStation© Accessories                                        2.2.0.3           
+
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211  14.44.35211       
+
+Elgato Stream Deck                                              7.0.3.22071       
+
+AMD I2C Driver                                                  1.2.0.124         
+
+Microsoft Visual C++ 2019 X86 Debug Runtime - 14.29.30156       14.29.30156       
+
+Windows SDK Desktop Headers arm64                               10.1.19041.685    
+
+Microsoft Visual Studio Setup Configuration                     3.7.2182.35401    
+
+Universal CRT Headers Libraries and Sources                     10.1.19041.685    
+
+Windows SDK DirectX x86 Remote                                  10.1.19041.685    
+
+Windows Team Extension SDK                                      10.1.19041.685    
+
+AMD 3D V-Cache Performance Optimizer Driver                     1.0.0.9           
+
+Windows Desktop Extension SDK                                   10.1.19041.685    
+
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664   12.0.40664        
+
+Microsoft .NET Host FX Resolver - 6.0.16 (x64)                  48.67.58427       
+
+Windows SDK Desktop Tools arm64                                 10.1.19041.685    
+
+Windows App Certification Kit Native Components                 10.1.19041.685    
+
+Windows SDK for Windows Store Apps DirectX x86 Remote           10.1.19041.685    
+
+AURA lighting effect add-on                                     0.0.49            
+
+Windows Subsystem for Linux                                     2.6.1.0           
+
+Universal CRT Redistributable                                   10.0.26624        
+
+Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30156       14.29.30156       
+
+Windows SDK Desktop Libs arm                                    10.1.19041.685    
+
+Universal CRT Tools x64                                         10.1.19041.685    
+
+AURA DRAM Component                                             1.1.27            
+
+Epic Online Services                                            2.0.44.0          
+
+Windows SDK Signing Tools                                       10.1.19041.685    
+
+Windows Mobile Extension SDK                                    10.1.19041.685    
+
+Windows SDK for Windows Store Apps Tools                        10.1.19041.685    
+
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030   11.0.61030        
+
+Python 3.12.6 Core Interpreter (64-bit)                         3.12.6150.0       
+
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030      11.0.61030        
+
+WinRT Intellisense IoT - en-us                                  10.1.19041.685    
+
+ENE RGB HAL                                                     1.1.53.0          
+
+vcpp_crt.redist.clickonce                                       14.29.30156       
+
+ASUS AURA Extension Card HAL                                    1.1.0.20          
+
+Microsoft .NET Host FX Resolver - 8.0.13 (x64)                  64.52.27977       
+
+Promontory_GPIO Driver                                          3.0.1.0           
+
+Windows SDK AddOn                                               10.1.0.0          
+
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664   12.0.40664        
+
+Windows SDK Desktop Libs x64                                    10.1.19041.685    
+
+Python 3.12.6 Tcl/Tk Support (64-bit)                           3.12.6150.0       
+
+Patriot Viper M2 SSD RGB                                        1.1.0.3           
+
+Windows SDK EULA                                                10.1.19041.685    
+
+AMD SBxxx SMBus Driver                                          5.12.0.44         
+
+Windows Mobile Extension SDK Contracts                          10.1.19041.685    
+
+AURA Service                                                    3.08.59           
+
+GameSDK Service                                                 1.0.5.0           
+
+Windows SDK Desktop Headers x64                                 10.1.19041.685    
+
+ASUS AURA Motherboard HAL                                       1.5.0.2           
+
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030      11.0.61030        
+
+Windows SDK ARM Desktop Tools                                   10.1.19041.685    
+
+WinRT Intellisense UAP - Other Languages                        10.1.19041.685    
+
+ASUS AIOFan HAL                                                 1.4.2.0           
+
+Microsoft Update Health Tools                                   5.72.0.0          
+
+WinRT Intellisense Mobile - en-us                               10.1.19041.685    
+
+Patriot Viper DRAM RGB                                          1.0.9.8           
+
+Epic Games Launcher                                             1.3.93.0          
+
+SDK ARM Additions                                               10.1.19041.685    
+
+WireGuard                                                       0.5.3             
+
+AMD PPM Provisioning File Driver                                8.0.0.32          
+
+Microsoft XNA Framework Redistributable 4.0 Refresh             4.0.30901.0       
+
+Microsoft .NET Runtime - 8.0.13 (x64)                           64.52.27977       
+
+Windows SDK for Windows Store Apps Headers                      10.1.19041.685    
+
+VirtViewer 11.0-256 (64-bit)                                    11.0.256          
+
+WinRT Intellisense Desktop - en-us                              10.1.19041.685    
+
+Kingston AURA DRAM Component                                    1.1.36            
+
+Java Auto Updater                                               2.8.441.7         
+
+ENE_EHD_M2_HAL                                                  1.0.13.0          
+
+AMD GPIO2 Driver                                                2.2.0.133         
+
+Windows Team Extension SDK Contracts                            10.1.19041.685    
+
+Windows App Certification Kit x64                               10.1.19041.685    
+
+Windows IoT Extension SDK                                       10.1.19041.685    
+
+WinRT Intellisense PPI - en-us                                  10.1.19041.685    
+
+
+
+
