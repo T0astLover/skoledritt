@@ -1,34 +1,55 @@
 import os 
+import platform
 
 #henter opperativsystemet til brukern og brukernavn
-systemet = os.name
-print("operativsystemet ditt er:", systemet)
+try: 
+    systemet = os.name
+    osVersjon = platform.version()
+    print("operativsystemet ditt er:", systemet + osVersjon)
+except Exception as fkode:
+    print("feil ved henting av OS", fkode)
 #posix = linux/mac #NT = windows 
 
 #måtte få hjelp av AI til denne delen men skal klare og forklare det :) 
 import shutil 
-storage = f"{shutil.disk_usage('C:\\').free / (1024**3):.2f} GB"
-print("Ledig plass:", storage)
+try: 
+    storage = f"{shutil.disk_usage('C:\\').free / (1024**3):.2f} GB"
+    print("Ledig plass:", storage)
+except Exception as fkode:
+    print("feil ved henting av lagring", fkode)
 
 #brukernavn
-username = os.getlogin()
-print("brukernavnet ditt er:", username)
+try:
+    username = os.getlogin()
+    print("brukernavnet ditt er:", username)
+except Exception as fkode:
+    print("feil ved henting av brukernavn", fkode)
 
 #ip adreesse
-ipaddresse = os.popen("ipconfig").read()
-print("ip adressen din er:", ipaddresse)
+try: 
+    ipaddresse = os.popen("ipconfig").read()
+    print("ip adressen din er:", ipaddresse)
+except Exception as fkode:
+    print("feil ved henting av ip adresse", fkode)
 
 #apper
-apper = os.popen("wmic product get name,version").read()
-print(apper)
+try:
+    apper = os.popen("wmic product get name,version").read()
+    print(apper)
+except Exception as fkode:	
+    print("feil ved henting av apper", fkode)
 
+#lager filen med brukernavet
 filsti = f"{username}.txt"
 
-with open(filsti, "w") as fil:
-    fil.write(f"Operativsystem: {systemet}\n")
-    fil.write(f"Brukernavn: {username}\n")
-    fil.write(f"lagring: {storage}\n")
-    fil.write(f"IP adresse: {ipaddresse}\n")
-    fil.write(f"Installerte apper: {apper}\n")
-print(f"Informasjon lagret i filen: {filsti}")
-#Ikke rydding men det fungerer :)
+#skriver in infoen til filen
+try:
+    with open(filsti, "w") as fil:
+        fil.write(f"Operativsystem: {systemet} {osVersjon}\n")
+        fil.write(f"Brukernavn: {username}\n")
+        fil.write(f"lagring: {storage}\n")
+        fil.write(f"IP adresse: {ipaddresse}\n")
+        fil.write(f"Installerte apper: {apper}\n")
+    print(f"Informasjon lagret i filen: {filsti}")
+except Exception as fkode:
+    print("feil ved lagring av fil", fkode)
